@@ -1,7 +1,7 @@
 ## 苹果cms-v10+YSXS2+海螺主题
 #### 首页 —— 自定义快捷菜单 —— 填写下面参数(admin.php换成自己后台xxxx.php)
 电影先生,/admin.php/admin/DYXS2/dyxs2set    </br>
-海螺主题设置,/admins.php/admin/conch/theme
+海螺主题,/admins.php/admin/conch/theme
 
 影视采集    </br>
 非凡：http://ffzy5.tv/help/    </br>
