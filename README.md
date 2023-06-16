@@ -1,7 +1,7 @@
 ## 苹果cms-v10+MXone主题
 #### 首页 —— 自定义快捷菜单 —— 填写下面参数(admin.php换成自己后台xxxx.php)
 MXone V10.6魔改版主题,/admin.php/admin/mxone/mxoneset    </br>
-MXone主题,mxpro/mxproset
+MXone主题,/admin.php/admin/mxpro/mxproset
 
 影视采集    </br>
 非凡：http://ffzy5.tv/help/    </br>
