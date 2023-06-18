@@ -1,6 +1,6 @@
 ## 苹果cms-v10+MXone主题
 #### 首页 —— 自定义快捷菜单 —— 填写下面参数(admin.php换成自己后台xxxx.php)
-mxoneX主题,/sharkbaby.php/admin/mxone/mxoneset
+mxoneX主题,/admin.php/admin/mxone/mxoneset
 
 赋予权限    </br>
 chown -R www:www /path/to/your/site
