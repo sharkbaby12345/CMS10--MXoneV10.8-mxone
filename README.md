@@ -7,4 +7,4 @@ chown -R www:www /path/to/your/site
 红牛：https://www.hongniuziyuan.com/help/    </br>
 非凡：http://ffzy5.tv/help/    </br>
 量子资源网：http://lzizy.net/help/    </br>
-新浪资源网：https://www.xinlangzy.com/help/    </br>
+快帆：https://kuaifan.tv/
